@@ -1,0 +1,5 @@
+# ignores files starting with ._ in any directory
+**/._*
+
+# ignore pycache files
+**/*.pyc
