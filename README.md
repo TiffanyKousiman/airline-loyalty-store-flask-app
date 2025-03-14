@@ -166,7 +166,7 @@ with app.app_context():
 
 Run the script to create the database tables:
 ```bash
-python init_db.py
+python create_db.py
 ```
 
 ### Step 4: Seed the Database (Using the built-in `/admin` route)
